@@ -1,0 +1,563 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<!-- <meta http-equiv='X-UA-Compatible' content='IE=8'> -->
+<meta content="webkit" name="renderer">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>免费商标查询，商标在线查询-易名中国</title>
+<meta name="keywords" content="商标查询,商标注册查询,已注册商标查询,查询商标,商标在线查询">
+<meta name="description" content="易名中国专为申请人提供商标在线查询，可以按照近似查询，综合查询。还可以通过商品名称进行查询，简单，方便，即刻反馈结果。">
+<link rel="stylesheet" type="text/css" href="/css/style.css?v=1544064871" />
+<script src="/js/jquery-1.7.2.min.js?v=1544064871" type="text/javascript"></script>
+<script src="/js/html5.js?v=1544064871" type="text/javascript"></script>
+<script type="text/javascript" src="/js/cas.js?v=1544064871"></script>
+<!--[if IE 6]>
+<script type="text/javascript" src="js/DD_belatedPNG.js" ></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('.pngfix');
+</script>
+<![endif]-->
+</head>
+<body><div style="display: none">
+<div class="pop_box open" style="display:none;z-index: 10000;">
+	<iframe src="about:blank"></iframe>
+</div>
+<div class="course open" style="z-index: 10001;">
+	<div class="course_1 open">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<a class="close_course" href="javascript:void(0);">我已经懂了</a>
+		<img src="images/pic/1.png" height="323" width="718" alt="">
+	</div>
+	<div class="course_2">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<img src="images/pic/2.png" height="466" width="646" alt="">
+	</div>
+	<div class="course_3">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<img src="images/pic/3.png" height="422" width="564" alt="">
+	</div>
+	<div class="course_4">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<img src="images/pic/4.png" height="2021" width="1004">
+	</div>
+	<div class="course_5">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<img src="images/pic/5.png" height="440" width="604">
+	</div>
+	<div class="course_6">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close"  href="javascript:void(0);">关闭</a>
+		<img src="images/pic/6.png" height="444" width="755">
+	</div>
+	<div class="course_7">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<img src="images/pic/7.png" height="1996" width="1004">
+	</div>
+	<div class="course_8">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<img src="images/pic/8.png" height="531" width="743">
+	</div>
+	<div class="course_9">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<img src="images/pic/9.png" height="761" width="1049">
+	</div>
+	<div class="course_10">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<img src="images/pic/10.png" height="761" width="1050">
+	</div>
+	<div class="course_11">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<img src="images/pic/11.png" height="420" width="743">
+	</div>
+	<div class="course_12">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<img src="images/pic/12.png" height="1975" width="1004">
+	</div>
+	<div class="course_13">
+		<a class="continue" href="javascript:void(0);">继续</a>
+		<a class="close" href="javascript:void(0);">关闭</a>
+		<a class="close_course" href="javascript:void(0);">我已经懂了</a>
+		<img src="images/pic/13.png" height="348" width="459">
+	</div>
+</div>
+</div>
+<nav class="nav">
+	<div class="topnav clearfix">
+		<div class="left login_box clearfix" id="topleft"></div>
+		<div class="right link_box" id="topright"></div>
+	</div>
+</nav>
+<script type="text/javascript">
+var _serId = 12;
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	    cas.setHeadLoginFormHtml('/login');
+    cas.setHeadLinksHtml();
+    cas.getPrelogin();
+    cas.loginFormSubmit();
+    });
+</script>
+<!-- /nav -->
+<!-- header -->
+<header class="header clearfix" style="z-index: 9991;">
+	<div class="left">
+		<!--<a href="/"><img src="/images/pic/logo.jpg" height="43" width="125" alt="易名中国" /></a>
+		<span class="min_logo">    
+			<img src="/images/pic/min_logo.jpg" height="27" width="81" alt="商标注册平台www.tm.cn" />
+		</span>-->   
+
+		<a href="/"><img src="/images/pic/logo.png"  height="48"  alt="商标注册平台www.tm.cn" title="商标注册平台www.tm.cn"/></a>
+	</div>
+	<div class="right">
+		<ul class="menu">
+			<li><a href="/">首页</a></li>
+			<li><a href="/tm/reg">商标注册</a></li>
+			<li><a href="/search">商标查询</a></li>
+			<li><a href="/search/sort">商标类别</a></li>
+			<li class="cur">
+				<div class="simulation_select">
+			      <div class="box new"><a href="/index/tradeindex">商标案件</a></div>
+					<dl class="inner">
+					<!-- 
+						<dd><a href="/trade/tradereg?type=8">商标转让</a></dd>
+						<dd><a href="/trade/tradereg?type=7">商标变更</a></dd>
+						<dd><a href="/trade/tradereg?type=6">商标撤三</a></dd>
+                    -->
+						<dd><a href="/trade/tradereg?type=1">驳回复审</a></dd>
+						<dd><a href="/trade/tradereg?type=2">异议申请</a></dd>
+						<dd><a href="/trade/tradereg?type=3">宣告无效</a></dd>
+						<dd><a href="/trade/tradereg?type=4">异议答辩</a></dd>
+						<!-- <dd><a href="/trade/tradereg?type=5">不予注册复审</a></dd> -->
+					</dl>
+				</div>
+			</li>
+			
+			<li class="my_trademark"><a href="/tm/mytm">我的商标</a></li>
+		</ul>
+	</div>
+</header>
+<!-- /header -->
+<style type="text/css">
+.none_data{height:147px;}
+.autoList{border:1px solid #999;position:absolute;overflow:hidden;}
+.autoList p{line-height:25px;cursor:default;padding:0 4px;}
+.autoList li{line-height:25px;cursor:default;padding:0 4px;background-color:#fff;}
+.autoList .cur{background:#F5F5F5;}
+</style>
+<script>
+$(document).ready(function(){
+    var num=1;
+	$("[class^='course_']").on('click','.continue', function(){
+		if(num<$("[class^='course_']").length){
+			num++;
+		}else{
+			num=1;
+		}
+		$(".course_"+num).addClass('open').siblings().removeClass('open');
+	});
+	$(".close,.close_course").on('click',function() {
+		$(".pop_box").removeClass('open');
+		$(".course").removeClass('open');
+		num=1;
+	});
+});
+</script>
+
+<!-- 弹窗遮罩 -->
+<div class="pop_box" style="display: none;z-index: 10000;">
+	<iframe src="about:blank"></iframe>
+</div>
+<!-- /弹窗遮罩 -->
+<!-- 图形选择 -->
+<div class="pop_main_max"  style="display: none;z-index: 10001;">
+	<div class="pop_bd">
+		<div class="pop_search">
+			<a class="pop_close" href="javascript:void(0)" title="关闭">x</a>
+			<input type="text" value="输入图形要素中文" class="com_input pop_search_input ser_input" id="name">
+			<button type="button" class="pop_search_btn" onclick="getElement()">查 询</button>
+		</div>
+		<div class="w_940">
+			<ul class="result_list_ul"></ul>
+		</div>
+	</div>
+	<div class="pop_fd">
+		<button type="button" class="btn_orange" onclick="checkElement()">提交</button>
+	</div>
+</div>
+<!-- /图形选择 -->
+<!-- container -->
+<div class="container bor">
+			<div class="page_search "   >
+		<h2>商标查询</h2>
+		<div class="search_main clearfix" style="margin: 70px auto auto 300px;">
+			<ul class="tab_list">
+		    	<li class="cur"><a href="javascript:void(0);">综合查询</a></li>
+				<li style="display:none"><a href="/search?type=2" >近似查询</a></li>
+			</ul>
+			<div class="ser_form">
+				<form method="get" action="">
+					<input type="hidden" value="1" name="type">
+					<input type="text" name="value" value="输入商标名称" class="com_input ser_input" id="searchValue">
+					<input type="hidden" id="searchType" name="searchType" value="2">
+					<div class="ser_drop" tabindex="0" style="outline:0;">
+						<span class="default">商标名称<span class="outsideb"></span></span>
+						<ul style="display:none;" class="ser_drop_list">
+							<li value="2">商标名称</li>
+							<li value="3">申请人</li>
+							<li value="1">注册号</li>
+						</ul>
+					</div>
+					<button type="button" class="btn_orange" onclick="searchSub(this)">查 询</button>
+				</form>
+			</div>
+		</div>
+	</div>
+		</div>
+<script>
+function searchSub(obj)
+{
+	var searchType = $("#searchType").val();
+	var value = $("#searchValue").val();
+	var sort = $("#sort").val();
+	if(sort)
+	{
+		if(sort == '直接输入商品名称或分类号')
+		{
+			alert('请输入商品名称或分类号');
+			return false;
+		}
+		r = sort.replace(/[^0-9]/ig,"");
+		if(r == '' || Number(r) > 45 || Number(r) < 1)
+		{
+			alert('请输入正确的商品名称或分类号');
+			return false;
+		}
+	}
+	var re = '';
+	switch(searchType)
+	{
+		case "1":
+			var msg = "请输入正确的注册号";
+			var re = new RegExp("^[\\d]{6,9}$");
+			break;
+		case "2":
+			var msg = "请输入正确的商标名称(1-50字符)";
+			if(value == "输入商标名称")
+			{
+				alert(msg);
+				return false;
+			}
+			var re = new RegExp('^[\u4e00-\u9fa5A-Za-z0-9.\\s]{1,50}$');
+			break;
+		case "3":
+			var msg = "请输入正确的申请人名称(1-50字符)";
+			if(value == "输入申请人")
+			{
+				alert(msg);
+				return false;
+			}
+			var re = new RegExp('^[\u4e00-\u9fa5A-Za-z0-9\\（\\）.\\s]{1,50}$');
+			break;
+		case "4":
+			var re = new RegExp("^[0-9A-Z.,]{1,50}$");
+			var msg = "请输入正确的图形要素(1-50字符)";
+			break;
+		case "5":
+			var re = new RegExp("^[\\d]{1,50}$");
+			var msg = "请输入正确的数字(1-50字符)";
+			break;
+		case "6":
+			var re = new RegExp("^[a-zA-Z\\s]{1,50}$");
+			var msg = "请输入正确的拼音(1-50字符)";
+			break;
+		case "7":
+			var re = new RegExp("^[a-zA-Z\\s]{1,50}$");
+			var msg = "请输入正确的英文字母(1-50字符)";
+			break;
+		case "8":
+			var msg = "请填写正确的中文商标(1-50字符)";
+			if(value == "输入商标名称")
+			{
+				alert(msg);
+				return false;
+			}
+			var re = new RegExp("^[\u4e00-\u9fa5\\s]{1,50}$");
+			break;
+		default:
+			alert('请选择正确的查询条件');
+			return;
+			break;
+	}
+	if(re != '')
+	{
+		if(!re.test(value))
+		{
+			alert(msg);
+			return false;
+		}
+	}
+	$(obj).parent().submit();
+}
+
+$('.ser_drop').click(function(){
+	hidden = $('.ser_drop_list').is(":hidden");
+	if(hidden)
+	{
+		$('.ser_drop_list').show();
+	}
+	else
+	{
+		$('.ser_drop_list').hide();
+	}
+});
+
+$('.ser_drop').bind({
+	blur:function(){
+		$('.ser_drop_list').hide();
+	} 
+});
+
+$(".pop_close").click(function(){
+	elementHide();
+});
+
+$(".ser_drop_list li").bind({
+	mouseout:function(){
+		$(this).css("background-color", "");
+		$(this).css("color", "");
+	},
+	mouseover:function(){
+		$(this).css("background-color", "#238ffe");
+		$(this).css("color", "#fff");
+	}
+});
+
+$(".ser_drop_list li").click(function(){
+	type = $(this).attr('value');
+	var msg = '输入商标名称';
+	switch(type)
+	{
+		case 1:
+			msg = '输入注册号';
+			break;
+		case 3:
+			msg = '输入申请人';
+			break;
+		case 4:
+			msg = '输入图形要素编码';
+			elementShow();
+			break;
+	}
+	value = $("#searchValue").val();
+	if(value == '输入商标名称' || value == '输入注册号' || value == '输入申请人' || value == '输入图形要素编码')
+	{
+		$("#searchValue").val(msg);
+	}
+	else
+	{
+		$("#searchValue").val(value);
+	}
+	$(".default").html($(this).html() + '<span class="outsideb"></span>');
+	$("#searchType").attr('value', type);
+});
+
+$('.ser_input').bind({
+	focus:function(){
+		defaultV = this.value;
+		if (this.value == defaultV && (defaultV == '输入商标名称' || defaultV == '直接输入商品名称或分类号' || defaultV == '输入图形要素编码' || defaultV == '输入图形要素中文' || defaultV == '输入申请人' || defaultV == '输入注册号')){ 
+			this.value = ""; 
+		} 
+	}, 
+	blur:function(){ 
+		if (this.value == ""){
+			defaultV = '输入商标名称';
+			switch($('#searchType').val())
+			{
+				case "4":
+					defaultV = '输入图形要素编码';
+					break;
+				case "1":
+					defaultV = '输入注册号';
+					break;
+				case "3":
+					defaultV = '输入申请人';
+					break;
+			}
+			if($(this).attr('id') == 'sort')
+			{
+				defaultV = '直接输入商品名称或分类号';
+			}
+			if($(this).attr('id') == 'name')
+			{
+				defaultV = '输入图形要素中文';
+			}
+			$(this).val(defaultV);
+			$(this).attr("value", defaultV);
+		} 
+	} 
+});
+
+function elementHide()
+{
+	$(".pop_box,.pop_main_max").hide();
+}
+
+function elementShow(type)
+{
+	if($(".result_list_ul").html() == '')
+	{
+		getElement();
+	}
+	$(".pop_box,.pop_main_max").show();
+}
+
+function getElement()
+{
+	name = $('#name').val();
+	name = name == '输入图形要素中文' ? '' : name;
+	$.ajax({
+        type: "GET",
+        url:"/search/element",
+        data: {
+        	name: name
+        },
+        success:function(msg){
+        	msg = eval('(' + msg + ')');
+        	data = msg.data;
+        	if(data.html == '')
+        	{
+            	data.html = '<span style="padding-left:350px;">未查询到结果，请更换关键词试试！</span>';
+        	}
+        	$(".result_list_ul").html(data.html);
+
+        	$(".trigger").click(function(){
+        		if($(this).attr("class").indexOf("hide") > 0)
+        		{
+        			$(this).next().addClass("block").siblings().removeClass("block");
+        			$(this).addClass("show").removeClass("hide");
+        		}
+        		else
+        		{
+        			$(this).next().removeClass("block");
+        			$(this).addClass("hide").removeClass("show");
+        		}
+        	});
+        }
+	});
+}
+
+function selectElement(obj)
+{
+	cl = $(obj).find('li').attr('class');
+	if(cl == 'c_red')
+	{
+		$(obj).find('li').attr('class', '');
+	}
+	else
+	{
+		$(obj).find('li').attr('class', 'c_red');
+	}
+}
+
+function checkElement()
+{
+	var element = '';
+	$('li.c_red').each(function(){
+		element += $(this).attr('data') + ',';
+	})
+	if(element == '')
+	{
+		alert('你还没有选择图形要素');
+	}
+	else
+	{
+		element = element.substring(0, element.length-1);
+		$('#searchValue').val(element);
+		elementHide();
+	}	
+}
+</script>
+<script src='/js/page.js?v=1544064871'></script>
+<!-- /container -->
+<!-- /foot -->
+<style>
+.whdo{ text-align:center; margin-top:15px;font-size:12px;}
+ .copywh a{color:#777;}
+ .copywh a:hover{  color:#FF6E00;}
+</style>
+<footer class="footer">
+	<div class="footer_center clearfix">
+		<dl class="dl_l">
+			<dt>关于我们</dt>
+			<dd><a href="/about/us">公司简介</a></dd>
+			<dd><a href="/about/ownreg">商标注册协议</a></dd>
+			<dd><a href="/about/payag">商标支付协议 </a></dd>
+			<dd><a href="/about/traderefusal">商标案件协议</a></dd>
+		</dl>
+		<dl class="dl_m">
+			<dt>新手帮助</dt>
+			<dd><a href="/faq/regtm">注册商标须知</a></dd>
+			<dd><a href="/faq/howmuch">商标价格标准</a></dd>
+			<dd><a href="/faq/howfp">发票申请流程</a></dd>
+			<dd><a href="/faq/howlong">注册商标时限</a></dd>
+		</dl>
+		<dl class="dl_r">
+			<dt>400-0044-400</dt>
+			<dd>
+				<a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzkzODA3MTU1MV8yODU5MjdfNDAwMDY5OTM5M18yXw" class="link qq" target="_blank">QQ交谈</a>
+				<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=3e50f9c769a26f912e82c81d1623f3f973f2591933194570ac0404ed0a6acc4a"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="TM.CN商标交流（三群）" title="TM.CN商标交流（三群）"></a>
+				<a href="http://weibo.com/u/5687105454" class="link wb" target="_blank">关注微博</a>
+		      <a href="javascript:void(0);" class="link wx" id="coss">关注微信</a>
+				<div style="display:none;z-index: 99999;" class="wx_drop" >
+					<img src="/images/pic/weixin.png" class="pngfix">
+					<p>扫描二维码关注我们<br>搜索微信号易名商标</p>
+				</div>
+			</dd>
+		</dl>
+	</div>
+	<div class="whdo">
+		<p class="copywh">
+			<a href="http://www.miibeian.gov.cn" target="_blank" > 闽ICP备09024308号-7</a><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35020302000830" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;">
+		 		<img src="/images/pic/beian.png" style="float:left;"/>闽公网安备 35020302000830号</a><br>
+			Copyright &copy; 2005-2017[易名中国] 厦门易名科技股份有限公司 eName Technology Co.，Ltd.</p>
+		<a target="_blank" href="http://222.76.242.83:8080/ei/Ei!certificate.action?id=40288a85400ece94014018fc18650027"><img alt="经营性网站实名认证" src="/images/certificate_img.jpg"></a>
+	</div>
+</footer>
+<!-- /foot -->
+<script src="/js/common.js?v=1544064871" type="text/javascript"></script>
+<script>
+$(document).ready(function(){
+    $("#coss").hover(function(){
+    $(".wx_drop").show();
+    },function(){
+    	$(".wx_drop").hide();
+    });
+});
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?ca471dd7af56343704d81cef8f88299d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<div style="display: none">
+<script src="http://s11.cnzz.com/z_stat.php?id=1256201221&web_id=1256201221"  language="JavaScript"></script>
+</div>
+</body>
+</html>
