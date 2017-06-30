@@ -6,25 +6,28 @@ class BrandInfoSpider(scrapy.Spider):
     start_urls=["http://www.tm.cn/search"]
 
 
-    def parse_BrandInfo(self, response):
-        sel = Selector(response)
+    def parse(self, response):
+        #collect 'brand_urls'
+        for detailHref in response.xpath('//tbody//tr//@href'):
+            keyAndValue = detailHref.extract()
+            if keyAndValue is not None:
+                next_page = response.urljoin(keyAndValue)
+                yield scrapy.Request(next_page, callback=self.parse_Detail)
 
-        for detailHref in sel.xpath('//tbody//tr//@href').extract():
-            if detailHref is not None:
-                next_page = response.urljoin(detailHref)
-                yield scrapy.Request(next_page, callback=self.parse_Detail())
 
 
 
     def parse_Detail(self, response):
-        sel = Selector(response)
         item = items.RealTimeTime()
-        tbodys = sel.xpath('//tbody')
+        tbodys = response.xpath('//tbody')
 
-        item['RegistrationNumber'] = tbodys[0].xpath('/tr[1]//td[last()]/text()').extract()
-        item['Classification'] = tbodys[0].xpath('/tr[2]//td[last()]/text()').extract()
-        item['ApplyDate'] = tbodys[0].xpath('/tr[3]//td[last()]/text()').extract()
-        item['RegisterDate'] = tbodys[0].xpath('/tr[4]//td[last()]/text()').extract()
+        sel = Selector(text=tbodys[0].extract())
+
+        #list type
+        item['RegistrationNumber'] = sel.xpath('//tr[1]//td[last()]/text()').extract()
+        item['Classification'] = sel.xpath('//tr[2]//td[last()]/text()').extract()
+        item['ApplyDate'] = sel.xpath('//tr[3]//td[last()]/text()').extract()
+        item['RegisterDate'] = sel.xpath('//tr[4]//td[last()]/text()').extract()
 
         yield item
 
