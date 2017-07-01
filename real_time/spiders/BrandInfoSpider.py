@@ -121,6 +121,27 @@ class BrandInfoSpider(scrapy.Spider):
                 process = t_string.split()
             else:
                 processtime = t_string.split()
+            
+        item['TrademarkName'] = div_string
+        item['RegistrationNumber'] = registernumber
+        item['Classification'] = classification
+        item['ApplyDate'] = applydate
+        item['RegisterDate'] = register
+        item['TrademarkPic'] = trademarkpic
+        item['ApplicantName'] = applicantname
+        item['ApplicantAddress'] = applicantaddress
+        item['PreliminaryNoticeNo'] = preliminarynoticeno
+        item['PreliminaryNoticeDate'] = preliminarynoticedate
+        item['RegisterNoticeNo'] = registernoticeno
+        item['RegisterNoticeDate'] = registernoticedate
+        item['ExclusiveRightTime'] = exclusiverighttime
+        item['Type'] = typ
+        item['TogetherTrademark'] = togethertrademark
+        item['Remark'] = remark
+        item['AgentName'] = agentname
+        item['Service'] = service
+        item['SimilarGroups'] = similargroups
+        #item['Process'] = 
 
 
 
