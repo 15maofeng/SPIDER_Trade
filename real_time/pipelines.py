@@ -17,7 +17,10 @@ class DetailPipeline(object):
     def process_item(self, item, spider):
         #pipelines主要用于数据的进一步处理，比如类型转换、存储入数据库、写到本地等。
         #类型转换
-        line = [item['RegistrationNumber'][0]]
+        line = []
+        for i in item:
+            line.append(i)
+
         self.ws.append(line)
         self.wb.save('BrandInfo.xlsx')
         return item

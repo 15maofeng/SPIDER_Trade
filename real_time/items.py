@@ -8,7 +8,7 @@
 import scrapy
 
 
-class RealTimeItem(scrapy.Item):
+class BrandItem(scrapy.Item):
     # define the Fields for your item here like:
     # name = scrapy.Field()
     TrademarkName = scrapy.Field() #商标名
